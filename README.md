@@ -33,16 +33,11 @@
   <img src="https://skillicons.dev/icons?i=typescript,javascript,python,react,nextjs,nodejs,django,html,css,tailwind,git,github,vercel" alt="Technologies: TypeScript, JavaScript, Python, React, Next.js, Node.js, Django, HTML, CSS, Tailwind CSS, Git, GitHub, Vercel" />
 </p>
 
-## GitHub snapshot
+## What I'm building
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shaurya-thinker&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Shaurya's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaurya-thinker&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Shaurya-thinker&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
-</div>
+- 🌊 **MARIS** — marine intelligence and spill attribution.
+- 🏙️ **CivicLens** — transparent civic issue reporting and resolution.
+- 📋 **LeaveOptix** — smarter leave planning and team availability.
 
 ## Let's connect
 
