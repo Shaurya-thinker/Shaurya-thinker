@@ -22,10 +22,12 @@
 
 | Project | What it does |
 | --- | --- |
-| [**MARIS**](https://github.com/Shaurya-thinker/MARIS) | Marine intelligence and spill attribution system. |
-| [**CivicLens**](https://github.com/Shaurya-thinker/CivicLens) | Helps citizens report local issues and enables transparent resolution tracking. **[Live demo ↗](https://civic-lens-peach.vercel.app)** |
-| [**LeaveOptix**](https://github.com/Shaurya-thinker/Leave-Optix) | Intelligent leave management with workload balancing and team availability insights. |
-| [**Procurement Quality Portal**](https://github.com/Shaurya-thinker/procurement-quality-portal) | A quality-focused procurement workflow portal. **[Live demo ↗](https://procurement-quality-portal.vercel.app)** |
+| [**MARIS**](https://github.com/Shaurya-thinker/MARIS) | Scientific marine spill attribution platform combining Sentinel-1 SAR oil-slick detection, reverse-time hydrodynamic drift modeling, AIS vessel-track analysis, and explainable evidence fusion. |
+| [**CivicLens**](https://github.com/Shaurya-thinker/CivicLens) | Civic engagement platform for reporting potholes, garbage, and streetlight failures, with transparent tracking for authorities. **[Live demo ↗](https://civic-lens-peach.vercel.app)** |
+| [**LeaveOptix**](https://github.com/Shaurya-thinker/Leave-Optix) | Intelligent leave management with workload balancing, auto-approvals, team calendars, and deadline checks. |
+| [**Django CRM System**](https://github.com/Shaurya-thinker/django-crm-system) | Role-based CRM for companies, employees, tasks, permissions, CSV workflows, rich-text content, media uploads, and email notifications. |
+| [**Task Planner**](https://github.com/Shaurya-thinker/Task_Planner) | Task planning and scheduling application with graph-based task dependencies and a C++ scheduling backend. |
+| [**Procurement Quality Portal**](https://github.com/Shaurya-thinker/procurement-quality-portal) | Enterprise platform unifying procurement, quality inspections, inventory, attendance, contractors, and announcements. **[Live demo ↗](https://procurement-quality-portal.vercel.app)** |
 
 ## Tech I work with
 
@@ -35,7 +37,7 @@
 
 ## What I'm building
 
-- 🌊 **MARIS** — marine intelligence and spill attribution.
+- 🌊 **MARIS** — satellite-assisted marine spill investigation and vessel attribution.
 - 🏙️ **CivicLens** — transparent civic issue reporting and resolution.
 - 📋 **LeaveOptix** — smarter leave planning and team availability.
 
